@@ -1,0 +1,2 @@
+# sql
+INNER JOIN
